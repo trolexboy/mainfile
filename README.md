@@ -1,2 +1,3 @@
 # mainfile
 main file
+star
